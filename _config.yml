@@ -1,25 +1,17 @@
 title: Nicole Baltodano
 logo: /images/portfolio.png
 description: >
-  Data Scientist passionate about Materials Science, with expertise in Data Science, AI, and Metallurgical Engineering.
+  Data Scientist passionate about Materials Science.
+  
+  Education: >
+  M.S., Data Science, University of Wisconsin – Milwaukee (2024 – 2025);
+  Bootcamp, Data Science and AI, Le Wagon, Montreal (2023);
+  M.S., Metallurgical Engineering, CINVESTAV, Mexico (2021 – 2023);
+  B.Sc., Chemical Engineering, UNI, Nicaragua (2014 – 2021).
 
-education:
-  - degree: M.S., Data Science
-    institution: University of Wisconsin – Milwaukee
-    period: 2024 – 2025
-  - degree: Bootcamp, Data Science and AI
-    institution: Le Wagon, Montreal
-    period: 2023
-  - degree: M.S., Metallurgical Engineering
-    institution: CINVESTAV, Mexico
-    period: 2021 – 2023
-  - degree: B.Sc., Chemical Engineering
-    institution: UNI, Nicaragua
-    period: 2014 – 2021
-
-contact:
-  email: nicolbaltodano@hotmail.com
-  linkedin: https://www.linkedin.com/in/nicole-baltodano-460941191/
-  location: Milwaukee, Wisconsin
+  Contact: >
+  Email: <nicolbaltodano@hotmail.com>;
+  LinkedIn: <https://www.linkedin.com/in/nicole-baltodano-460941191/>;
+  Location: Milwaukee, Wisconsin.
 
 theme: jekyll-theme-minimal
