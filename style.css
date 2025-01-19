@@ -6,9 +6,31 @@ body {
   padding: 20px;
 }
 
+.repo-links {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.project-row {
+  display: flex; /* Create a flexbox container */
+  justify-content: space-between; /* Add space between the two columns */
+  align-items: center; /* Align items vertically in the center */
+  margin-bottom: 20px; /* Add space between projects */
+}
+
+.project-info {
+  flex: 1; /* Take up available space */
+  margin-right: 20px; /* Add space between text and image */
+}
+
+.project-image-container {
+  flex: 0 0 150px; /* Fix the width for the image container */
+  text-align: right; /* Align the image to the right */
+}
+
 .project-image {
-  width: 150px; /* Adjust the size */
-  height: auto; /* Maintain aspect ratio */
-  margin: 10px 0; /* Add some space around the image */
-  display: block; /* Ensure it appears on a new line */
+  width: 100%; /* Set the image to fill the container */
+  height: auto; /* Maintain the aspect ratio */
+  border-radius: 8px; /* Optional: Add rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Add a subtle shadow */
 }
