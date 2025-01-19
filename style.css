@@ -5,3 +5,12 @@ body {
   text-align: center;
   padding: 20px;
 }
+
+.project-image {
+    margin: 20px auto;
+    width: 100%;
+    max-width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
