@@ -7,11 +7,8 @@ body {
 }
 
 .project-image {
-    display: block;
-    margin: 20px auto;
-    width: 100%;
-    max-width: 200px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 150px; /* Adjust the size */
+  height: auto; /* Maintain aspect ratio */
+  margin: 10px 0; /* Add some space around the image */
+  display: block; /* Ensure it appears on a new line */
 }
