@@ -37,7 +37,7 @@
 - **Result**: Achieved a Mean Absolute Error (MAE) of 12.
 
 <p align="center">
-  <img src="images/wine-project-graph.png" alt="Wine Project Graph" width="400">
+  <img src="images/wine-repository-description.png" alt="Wine Project Graph" width="400">
 </p>
 
 ---
@@ -48,7 +48,7 @@
 - **Result**: Achieved an RMSLE score of 0.15 on the test dataset.
 
 <p align="center">
-  <img src="images/house-prices-graph.png" alt="House Prices Prediction Graph" width="400">
+  <img src="images/house-prices-repository-description.png" alt="House Prices Prediction Graph" width="400">
 </p>
 
 ---
