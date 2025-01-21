@@ -53,10 +53,10 @@
 
 ---
 
-### 3. **[Taxi Fare Prediction](https://github.com/nicole-baltodano/Taxi_fare_prediction)**  
+### 3. **[Taxi Fare Prediction](https://github.com/nicole-baltodano/nyc-taxi-fare-prediction)**  
 - Built a data pipeline for cleaning, scaling, and encoding features.  
 - Trained a regression neural network and deployed an API on Google Cloud Platform.  
-- **Result**: Delivered real-time taxi fare predictions with high accuracy.
+- **Result**: Delivered taxi fare predictions with low root main square error (RMSE).
 
 <p align="center">
   <img src="images/taxi-fare-graph.png" alt="Taxi Fare Prediction Graph" width="400">
