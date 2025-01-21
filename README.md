@@ -64,6 +64,13 @@
 
 ---
 
+### 4. ** Credit Card Fraud Detection ** (https://github.com/nicole-baltodano/Credit_Card_Fraud_Detection)
+- Developed a data pipeline for preprocessing and addressing class imbalance using SMOTE and undersampling.
+- Built and trained a neural network to classify fraudulent transactions with precision-recall optimization.
+- Result: Achieved 70% recall for detecting fraudulent transactions on an imbalanced dataset.
+
+<p align="center"> <img src="images/fraud-detection-results.png" alt="Credit Card Fraud Detection Results" width="400"> </p>
+
 ## 📫 Contact
 
 - **Email**: [nicolbaltodano@hotmail.com](mailto:nicolbaltodano@hotmail.com)  
