@@ -71,6 +71,13 @@
 
 <p align="center"> <img src="images/fraud-detection-results.png" alt="Credit Card Fraud Detection Results" width="400"> </p>
 
+### 5. **[Automobile Loan Default Prediction](https://github.com/nicole-baltodano/automobile-loan-default-prediction)**
+- Built a data pipeline to clean and preprocess loan application data, addressing missing and inconsistent values.
+- Tackled class imbalance using SMOTE and trained a neural network to predict loan defaults.
+- **Result**: Achieved 13.4% recall for identifying loan defaults while maintaining a high precision of 81.5%.
+
+<p align="center"> <img src="images/automobile-loan-default-results.png" alt="Automobile Loan Default Prediction Results" width="400"> </p>
+
 ## 📫 Contact
 
 - **Email**: [nicolbaltodano@hotmail.com](mailto:nicolbaltodano@hotmail.com)  
