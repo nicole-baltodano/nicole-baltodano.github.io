@@ -31,7 +31,7 @@
 
 ## 🚀 Projects
 
-### 1. **[Quality Prediction in a Mining Process](https://github.com/nicole-baltodano/Mining_Process_Quality_Prediction)**  
+### 1. **[Silica Concentrate Prediction in a Mining Process](https://github.com/nicole-baltodano/Silica-concentrate-prediction)**  
 - Developed and trained an LSTM model to predict silica concentrate quality in a mining flotation process using time-series data.  
 - Implemented feature engineering, interaction terms, and hyperparameter tuning for optimal model performance.  
 - **Result**: Achieved an R² of 0.65 and a Mean Absolute Error (MAE) of 0.1.  
