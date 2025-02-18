@@ -19,9 +19,7 @@
 ## 🎓 Education
 
 - **M.S., Data Science**  
-  *University of Wisconsin – Milwaukee (2024 – 2025)*  
-- **Bootcamp, Data Science and AI**  
-  *Le Wagon, Montreal (2023)*  
+  *University of Wisconsin – Milwaukee (2024 – 2025)*   
 - **M.S., Metallurgical Engineering**  
   *CINVESTAV, Mexico (2021 – 2023)*  
 - **BSc., Chemical Engineering**  
