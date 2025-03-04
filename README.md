@@ -20,8 +20,6 @@
 
 - **M.S., Data Science**  
   *University of Wisconsin – Milwaukee (2024 – 2025)*   
-- **M.S., Metallurgical Engineering**  
-  *CINVESTAV, Mexico (2021 – 2023)*  
 - **BSc., Chemical Engineering**  
   *UNI, Nicaragua (2014 – 2021)*  
 
@@ -29,7 +27,18 @@
 
 ## 🚀 Projects
 
-### 1. **[Silica Concentrate Prediction in a Mining Process](https://github.com/nicole-baltodano/Silica-concentrate-prediction)**  
+### 1. **[Classification of Microconstituents in Heat-Treated Steel in Ultra-High-Carbon-Steel-Micrographs](https://github.com/nicole-baltodano/Ultra-High-Carbon-Steel-Micrographs)**
+
+- Developed a deep learning model that integrates CNNs for image processing and MLP for numerical/tabular data to classify microconstituents in steel samples.
+- Conducted feature engineering, including scaling, encoding, and correlation analysis, to enhance numerical inputs.
+- Applied data augmentation to microgrpahs to improve model performance.
+- **Result**: Achieved an overall accuracy of 0.81. High recall for spheroidite (0.95) and 0.3 recall for network.
+
+<p align="center">
+  <img src="images/microconstituents.png" alt="Microconstituents Project Graph" width="400">
+</p>
+
+### 2. **[Silica Concentrate Prediction in a Mining Process](https://github.com/nicole-baltodano/Silica-concentrate-prediction)**  
 - Developed and trained an LSTM model to predict silica concentrate quality in a mining flotation process using time-series data.  
 - Implemented feature engineering, interaction terms, and hyperparameter tuning for optimal model performance.  
 - **Result**: Achieved an R² of 0.65 and a Mean Absolute Error (MAE) of 0.1.  
@@ -38,7 +47,7 @@
   <img src="images/mining-process-description.png" alt="Mining Process Project Graph" width="400">
 </p>
 
-### 2. **[Wine Price Prediction from Review](https://github.com/nicole-baltodano/Wine_price_prediction_from_review)**  
+### 3. **[Wine Price Prediction from Review](https://github.com/nicole-baltodano/Wine_price_prediction_from_review)**  
 - Designed and trained an NLP model to predict wine prices using over 150,000 wine reviews.  
 - Implemented embedding layers, convolutional layers, and dense layers for text analysis.  
 - **Result**: Achieved a Mean Absolute Error (MAE) of 12.
@@ -49,7 +58,7 @@
 
 ---
 
-### 3. **[House Prices Prediction](https://github.com/nicole-baltodano/House_prices_prediction)**  
+### 4. **[House Prices Prediction](https://github.com/nicole-baltodano/House_prices_prediction)**  
 - Developed a regression model to predict house prices using structured data.  
 - Performed feature engineering, model selection, and hyperparameter tuning (RandomForest, KNN, XGBoost).  
 - **Result**: Achieved an RMSLE score of 0.15 on the test dataset.
@@ -60,7 +69,7 @@
 
 ---
 
-### 4. **[Taxi Fare Prediction](https://github.com/nicole-baltodano/nyc-taxi-fare-prediction)**  
+### 5. **[Taxi Fare Prediction](https://github.com/nicole-baltodano/nyc-taxi-fare-prediction)**  
 - Built a data pipeline for cleaning, scaling, and encoding features.  
 - Trained a regression neural network and deployed an API on Google Cloud Platform.  
 - **Result**: Delivered taxi fare predictions with low root main square error (RMSE) of 1.9 on test set.
@@ -71,14 +80,14 @@
 
 ---
 
-### 5. **[Credit Card Fraud Detection](https://github.com/nicole-baltodano/Credit_Card_Fraud_Detection)**
+### 6. **[Credit Card Fraud Detection](https://github.com/nicole-baltodano/Credit_Card_Fraud_Detection)**
 - Developed a data pipeline for preprocessing and addressing class imbalance using SMOTE and undersampling.
 - Built and trained a neural network to classify fraudulent transactions with precision-recall optimization.
 - Result: Achieved 70% recall for detecting fraudulent transactions on an imbalanced dataset.
 
 <p align="center"> <img src="images/fraud-detection-results.png" alt="Credit Card Fraud Detection Results" width="400"> </p>
 
-### 6. **[Automobile Loan Default Prediction](https://github.com/nicole-baltodano/Credit_Card_Fraud_Detection?tab=readme-ov-file)**
+### 7. **[Automobile Loan Default Prediction](https://github.com/nicole-baltodano/Credit_Card_Fraud_Detection?tab=readme-ov-file)**
 - Built a data pipeline to clean and preprocess loan application data, addressing missing and inconsistent values.
 - Tackled class imbalance using SMOTE and trained a neural network to predict loan defaults.
 - **Result**: Achieved 13.4% recall for identifying loan defaults while maintaining a high precision of 81.5%.
