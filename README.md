@@ -27,7 +27,7 @@
 
 ## 🚀 Projects
 
-### 1. **[Classification of Microconstituents in Heat-Treated Steel in Ultra-High-Carbon-Steel-Micrographs](https://github.com/nicole-baltodano/Ultra-High-Carbon-Steel-Micrographs)**
+### 1. **[Classification of Microconstituents in Ultra-High-Carbon-Steel-Micrographs](https://github.com/nicole-baltodano/Ultra-High-Carbon-Steel-Micrographs)**
 
 - Developed a deep learning model that integrates CNNs for image processing and MLP for numerical/tabular data to classify microconstituents in steel samples.
 - Conducted feature engineering, including scaling, encoding, and correlation analysis, to enhance numerical inputs.
